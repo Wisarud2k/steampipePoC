@@ -1,0 +1,1 @@
+alert('I am pointless as I will not be executed');
